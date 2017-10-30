@@ -12,7 +12,9 @@ getFluorescence.m - Code for extracting raw fluorescence from registered tif sta
 
 %%%%%%%
 
-  
-  
+getDeltaF.m - Code for converting raw fluorescence into deltaF/F for N ROIs
+
+%%%%%%%
+ 
   
   
