@@ -7,6 +7,11 @@ Code for analyzing 2P imaging data
   Main script is getRegisteredBatch.m
 
 %%%%%%%
+
+getFluorescence.m - Code for extracting raw fluorescence from registered tif stack from N ROIs using MIJ
+
+%%%%%%%
+
   
   
   
